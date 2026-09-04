@@ -1,7 +1,7 @@
 # Charter and Business Profile
 
 **Phase: Phase 1**
-
+rules Project leads, Nathan Quality checkM Avril 
 This folder holds the business framing that every later technical decision is justified against. Write it in Phase 1 and refer back to it all year.
 
 ## What belongs here
