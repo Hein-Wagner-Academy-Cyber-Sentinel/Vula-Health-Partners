@@ -12,3 +12,5 @@ We assume that hospital and medical facilities will agree to utilize our softwar
 Out of scope:
 Developing the front-end mobile application for the community health workers is not in our scope. Additionally, manually digitizing legacy paper files for integration into our systems and new data bases is strictly excluded from the prerogative and scope of Vula Health Partners and is the responsibility of the respective medical institutions, clinics and other relevant facilities.     
 
+Working protocol
+We have a folder on Avril's Onedrive where we both have access to. We save files in there so that the assurance lead can revied and make changes as needed. we do not just throw files in the folder without the other person knowing about it. We do not have a specific time we meet. we meet mostly when we need to. it does not matter if it is during the week or the weekends. 
